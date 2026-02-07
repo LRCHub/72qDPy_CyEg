@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "成長期なので。",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-02-07T15:58:01.126532Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "成長期なので。",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_成長期なので。_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
